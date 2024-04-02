@@ -1,0 +1,106 @@
+header {
+
+}
+
+
+.examen {
+    height: 10px;
+    width: 45px;
+   display: flex;
+   justify-content: space-between;
+ 
+    background-color: gray;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.como {
+    display: flex;
+}
+.sec1 {
+    width: 280px;
+    height: 120px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(175, 125, 125);
+    border-radius: 10px;
+}
+
+.emoji {
+    align-items: center;
+}
+.sec2 {
+   
+
+    width: 100px;
+    height: 140px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: aquamarine;
+    border-radius: 15px;
+
+    display: flex;
+   
+    
+
+}
+
+.sec3 {
+    width: 100px;
+    height: 140px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: aquamarine;
+    border-radius: 10px;
+
+    display: flex;
+    align-items: flex-end;
+    margin-right: 15%;
+
+    margin-right: 10px;
+
+    
+}
+
+.segundo {
+    width: 150px;
+    height: 110px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: red;
+    border-radius: 10px;
+}
+
+.secc1 {
+    width: 150px;
+    height: 50px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(175, 125, 125);
+    border-radius: 10px;
+}
+
+
+.secc2 {
+    width: 150px;
+    height: 50px;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(175, 125, 125);
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+/* .user {
+    background-color: aqua;
+}
+
+
+.examen {
+    height: 10px;
+    width: 45px;
+   display: flex;
+  text-align: end;
+    background-color: gray;
+    padding: 40px;
+    border-radius: 10px;
+} */
